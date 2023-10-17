@@ -347,6 +347,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/crosshatch/proprietary/vendor/bin/hw/android.hardware.neuralnetworks@1.3-service-qti:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.neuralnetworks@1.3-service-qti \
     vendor/google/crosshatch/proprietary/vendor/bin/hw/android.hardware.rebootescrow-service.citadel:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.rebootescrow-service.citadel \
     vendor/google/crosshatch/proprietary/vendor/bin/hw/android.hardware.sensors@2.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.sensors@2.0-service \
+    vendor/google/crosshatch/proprietary/vendor/lib/android.hardware.keymaster@4.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.keymaster@4.1.so \
     vendor/google/crosshatch/proprietary/vendor/bin/hw/android.hardware.weaver@1.0-service.citadel:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.weaver@1.0-service.citadel \
     vendor/google/crosshatch/proprietary/vendor/bin/hw/citadel_updater:$(TARGET_COPY_OUT_VENDOR)/bin/hw/citadel_updater \
     vendor/google/crosshatch/proprietary/vendor/bin/hw/citadeld:$(TARGET_COPY_OUT_VENDOR)/bin/hw/citadeld \
@@ -998,6 +999,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.confirmationui.secure_input_citadel.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.confirmationui.secure_input_citadel.so \
     vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.identity@1.0-impl.nos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.identity@1.0-impl.nos.so \
     vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.keymaster@4.1-impl.nos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.keymaster@4.1-impl.nos.so \
+    vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.keymaster@4.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.keymaster@4.1.so \
     vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.oemlock@1.0-impl.nos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.oemlock@1.0-impl.nos.so \
     vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.sensors@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.sensors@2.0-impl.so \
     vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.weaver@1.0-impl.nos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.weaver@1.0-impl.nos.so \
